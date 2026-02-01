@@ -1,12 +1,12 @@
 # Hey there! 👋
 
-**Software Engineer & Data Scientist based in Berlin DE**
+**Data & AI Engineer based in Berlin DE**
 
-MSc Data Science student at Freie Universität Berlin | Former SWE at Sauce Labs & Back Technologies
+MSc Data Science student at Freie Universität Berlin | Data & AI Engineering at We Are ERA (Bertelsmann RTL Group)
 
-Building with Python, Go, PyTorch | Interested in ML, audio synthesis, and solving real-world problems
+Building with Python and whatever else it takes
 
-🎵 Also making music: [soundcloud.com/g_ank](https://soundcloud.com/g_ank)
+🎵 music: [soundcloud.com/g_ank](https://soundcloud.com/g_ank)
 
 ## 🔧 Technologies & Tools
 
@@ -17,4 +17,5 @@ Building with Python, Go, PyTorch | Interested in ML, audio synthesis, and solvi
 ## 📫 Get in touch
 
 - Email: gabrieltibrown@gmail.com
+
 - Website: [gabrieltibrown.github.io](https://gabrieltibrown.github.io/)
